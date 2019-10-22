@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{71E961CC-7C94-4572-80C6-0C3D954FA275}|Default">
+  <MonoDevelop.Ide.ItemProperties.Functions__Lesson9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Functions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.IDCodeReader PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SpaceCounter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IDCodeReader/Program.cs">
+    <Files>
+      <File FileName="Lesson7/Program.cs" Line="60" Column="32" />
+      <File FileName="Functions/Program.cs" />
+      <File FileName="MyFunction/Program.cs" />
+      <File FileName="Functions_Lesson9/Program.cs" />
+      <File FileName="SpaceCounter/Program.cs" />
+      <File FileName="IDCodeReader/Program.cs" Line="16" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson7" expanded="True">
+            <Node name="Functions" expanded="True" selected="True" />
+            <Node name="Functions_Lesson9" expanded="True" />
+            <Node name="IDCodeReader" expanded="True" />
+            <Node name="Lesson7" expanded="True" />
+            <Node name="MyFunction" expanded="True" />
+            <Node name="SpaceCounter" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyFunction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

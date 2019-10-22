@@ -1,0 +1,10 @@
+/Users/kseniagustsenko/Desktop/program.alused/Lesson7/Functions/bin/Debug/netcoreapp2.1/Functions.deps.json
+/Users/kseniagustsenko/Desktop/program.alused/Lesson7/Functions/bin/Debug/netcoreapp2.1/Functions.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/program.alused/Lesson7/Functions/bin/Debug/netcoreapp2.1/Functions.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/program.alused/Lesson7/Functions/bin/Debug/netcoreapp2.1/Functions.dll
+/Users/kseniagustsenko/Desktop/program.alused/Lesson7/Functions/bin/Debug/netcoreapp2.1/Functions.pdb
+/Users/kseniagustsenko/Desktop/program.alused/Lesson7/Functions/obj/Debug/netcoreapp2.1/Functions.csproj.CoreCompileInputs.cache
+/Users/kseniagustsenko/Desktop/program.alused/Lesson7/Functions/obj/Debug/netcoreapp2.1/Functions.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/program.alused/Lesson7/Functions/obj/Debug/netcoreapp2.1/Functions.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/program.alused/Lesson7/Functions/obj/Debug/netcoreapp2.1/Functions.dll
+/Users/kseniagustsenko/Desktop/program.alused/Lesson7/Functions/obj/Debug/netcoreapp2.1/Functions.pdb
